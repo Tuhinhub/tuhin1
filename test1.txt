@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 creates test1.txt file 
 
+=======
+changed
+>>>>>>> 5a8b4aa479a28d066f7d6105bbc58d4d8fe8e08c
